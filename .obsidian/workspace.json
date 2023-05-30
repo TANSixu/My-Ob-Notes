@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "081789a06742a835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wireless/Wireless papers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Adventure.md",
+                "file": "Wireless/Wireless papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Adventure.md",
+                "file": "Wireless/Wireless papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Adventure.md"
+                "file": "Wireless/Wireless papers.md"
               }
             }
           }
@@ -148,11 +161,14 @@
   },
   "active": "6c6c4c2338bef72e",
   "lastOpenFiles": [
+    "Tech/Tech & Tools.md",
+    "Wireless/Wireless papers.md",
+    "System/System-Related Paper.md",
+    "New Adventure.md",
     "Tech",
     "Wireless",
     "System",
     "README.md",
-    "2023-05-31.md",
-    "New Adventure.md"
+    "2023-05-31.md"
   ]
 }
